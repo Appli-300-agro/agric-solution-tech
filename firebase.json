@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "agric-solution-tech",
+    "site": "agric-solution-tech-c89cb",
     "public": "dist",
     "ignore": [
       "firebase.json",
